@@ -1,0 +1,12 @@
+a {
+  color: #e84610;
+  font-size: 16px;
+  text-decoration: none;
+  transition-property: width, background-color; 
+  transition-duration: 1s;
+}
+
+a:hover {
+    width: 150px;
+    background-color: #000; /* black */
+}
